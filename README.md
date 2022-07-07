@@ -1,2 +1,2 @@
 # odin-recipes
-This is a project on learning about HTML and CSS through the Odin Project. In this project I am building a recipe website which will contain links to different recipes. The whole project is built only using HTML and CSS.
+This is a project on learning about HTML and CSS through the Odin Project. In this project I am building a recipe website which will contain links to different recipes. The whole project is built only using HTML.
